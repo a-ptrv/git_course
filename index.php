@@ -25,7 +25,13 @@ require_once "./config/connect.php";
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="./css/style.css">
-  <title>Document</title>
+  <title>Git Course</title>
+  <style>
+  * {
+     margin: 0;
+     padding: 0;
+    }
+  </style>
 </head>
 <body>
 <table>
@@ -43,4 +49,5 @@ require_once "./config/connect.php";
   </tr>
 </table>
 </body>
+<script src="./script.js"></script>
 </html>
